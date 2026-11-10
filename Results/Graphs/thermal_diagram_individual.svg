@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650">
+<style>text{font-family:Arial,sans-serif;fill:#222} .grid{stroke:#d9d9d9;stroke-width:1} .axis{stroke:#333;stroke-width:1.5} .small{font-size:13px} .label{font-size:16px} .title{font-size:21px;font-weight:bold}</style>
+<title>Тепловая диаграмма индивидуального варианта</title>
+<line x1="95.00" y1="90.00" x2="95.00" y2="535.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="95.00" y1="535.00" x2="710.00" y2="535.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="95.00" y="558.00" class="small" text-anchor="middle">13,616</text>
+<text x="83.00" y="540.00" class="small" text-anchor="end">0,664</text>
+<line x1="218.00" y1="90.00" x2="218.00" y2="535.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="95.00" y1="446.00" x2="710.00" y2="446.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="218.00" y="558.00" class="small" text-anchor="middle">17,886</text>
+<text x="83.00" y="451.00" class="small" text-anchor="end">0,714</text>
+<line x1="341.00" y1="90.00" x2="341.00" y2="535.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="95.00" y1="357.00" x2="710.00" y2="357.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="341.00" y="558.00" class="small" text-anchor="middle">22,155</text>
+<text x="83.00" y="362.00" class="small" text-anchor="end">0,764</text>
+<line x1="464.00" y1="90.00" x2="464.00" y2="535.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="95.00" y1="268.00" x2="710.00" y2="268.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="464.00" y="558.00" class="small" text-anchor="middle">26,425</text>
+<text x="83.00" y="273.00" class="small" text-anchor="end">0,814</text>
+<line x1="587.00" y1="90.00" x2="587.00" y2="535.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="95.00" y1="179.00" x2="710.00" y2="179.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="587.00" y="558.00" class="small" text-anchor="middle">30,694</text>
+<text x="83.00" y="184.00" class="small" text-anchor="end">0,863</text>
+<line x1="710.00" y1="90.00" x2="710.00" y2="535.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="95.00" y1="90.00" x2="710.00" y2="90.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="710.00" y="558.00" class="small" text-anchor="middle">34,964</text>
+<text x="83.00" y="95.00" class="small" text-anchor="end">0,913</text>
+<line x1="95.00" y1="90.00" x2="95.00" y2="535.00" stroke="#333" stroke-width="1.5"/>
+<line x1="95.00" y1="535.00" x2="710.00" y2="535.00" stroke="#333" stroke-width="1.5"/>
+<text x="402.50" y="587.00" class="label" text-anchor="middle">Максимальный безразмерный параметр Победоносцева κ̄max</text>
+<text x="30.00" y="312.50" class="label" text-anchor="middle">Коэффициент заполнения εf</text>
+<text x="402.50" y="62.00" class="title" text-anchor="middle">Тепловая диаграмма индивидуального варианта</text>
+<circle cx="137.41" cy="504.31" r="7.00" stroke="#222" stroke-width="1.0" fill="#1a16e0"/>
+<text x="146.41" y="497.31" class="small" text-anchor="start">ē0=0,30</text>
+<circle cx="147.83" cy="456.53" r="7.00" stroke="#222" stroke-width="1.0" fill="#1649e0"/>
+<text x="156.83" y="449.53" class="small" text-anchor="start">ē0=0,33</text>
+<circle cx="170.22" cy="410.85" r="7.00" stroke="#222" stroke-width="1.0" fill="#1683e0"/>
+<text x="179.22" y="403.85" class="small" text-anchor="start">ē0=0,36</text>
+<circle cx="198.29" cy="367.25" r="7.00" stroke="#222" stroke-width="1.0" fill="#16c0e0"/>
+<text x="207.29" y="360.25" class="small" text-anchor="start">ē0=0,39</text>
+<circle cx="232.68" cy="325.75" r="7.00" stroke="#222" stroke-width="1.0" fill="#16e0c2"/>
+<text x="241.68" y="318.75" class="small" text-anchor="start">ē0=0,42</text>
+<circle cx="274.44" cy="286.34" r="7.00" stroke="#222" stroke-width="1.0" fill="#16e081"/>
+<text x="283.44" y="279.34" class="small" text-anchor="start">ē0=0,45</text>
+<circle cx="325.00" cy="249.03" r="7.00" stroke="#222" stroke-width="1.0" fill="#16e040"/>
+<text x="334.00" y="242.03" class="small" text-anchor="start">ē0=0,48</text>
+<circle cx="386.34" cy="213.80" r="7.00" stroke="#222" stroke-width="1.0" fill="#30e016"/>
+<text x="395.34" y="206.80" class="small" text-anchor="start">ē0=0,51</text>
+<circle cx="461.16" cy="180.67" r="7.00" stroke="#222" stroke-width="1.0" fill="#74e016"/>
+<text x="470.16" y="173.67" class="small" text-anchor="start">ē0=0,54</text>
+<circle cx="553.17" cy="149.64" r="7.00" stroke="#222" stroke-width="1.0" fill="#bae016"/>
+<text x="562.17" y="142.64" class="small" text-anchor="start">ē0=0,57</text>
+<circle cx="667.59" cy="120.69" r="7.00" stroke="#222" stroke-width="1.0" fill="#e0c016"/>
+<text x="676.59" y="113.69" class="small" text-anchor="start">ē0=0,60</text>
+<text x="630.00" y="608.00" class="small" text-anchor="start">Цвет: σe0</text>
+<rect x="750.00" y="497.00" width="22.00" height="14.00" fill="#1a16e0" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="484.00" width="22.00" height="14.00" fill="#1629e0" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="471.00" width="22.00" height="14.00" fill="#163fe0" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="458.00" width="22.00" height="14.00" fill="#1655e0" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="445.00" width="22.00" height="14.00" fill="#166be0" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="432.00" width="22.00" height="14.00" fill="#1681e0" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="419.00" width="22.00" height="14.00" fill="#1697e0" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="406.00" width="22.00" height="14.00" fill="#16ade0" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="393.00" width="22.00" height="14.00" fill="#16c4e0" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="380.00" width="22.00" height="14.00" fill="#16dae0" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="367.00" width="22.00" height="14.00" fill="#16e0d1" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="354.00" width="22.00" height="14.00" fill="#16e0bb" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="341.00" width="22.00" height="14.00" fill="#16e0a5" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="328.00" width="22.00" height="14.00" fill="#16e08f" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="315.00" width="22.00" height="14.00" fill="#16e078" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="302.00" width="22.00" height="14.00" fill="#16e062" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="289.00" width="22.00" height="14.00" fill="#16e04c" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="276.00" width="22.00" height="14.00" fill="#16e036" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="263.00" width="22.00" height="14.00" fill="#16e020" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="250.00" width="22.00" height="14.00" fill="#23e016" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="237.00" width="22.00" height="14.00" fill="#39e016" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="224.00" width="22.00" height="14.00" fill="#50e016" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="211.00" width="22.00" height="14.00" fill="#66e016" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="198.00" width="22.00" height="14.00" fill="#7ce016" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="185.00" width="22.00" height="14.00" fill="#92e016" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="172.00" width="22.00" height="14.00" fill="#a8e016" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="159.00" width="22.00" height="14.00" fill="#bee016" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="146.00" width="22.00" height="14.00" fill="#d4e016" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="133.00" width="22.00" height="14.00" fill="#e0d616" stroke="none" opacity="1.000"/>
+<rect x="750.00" y="120.00" width="22.00" height="14.00" fill="#e0c016" stroke="none" opacity="1.000"/>
+<line x1="750.00" y1="120.00" x2="750.00" y2="510.00" stroke="#333" stroke-width="1.0"/>
+<line x1="772.00" y1="120.00" x2="772.00" y2="510.00" stroke="#333" stroke-width="1.0"/>
+<text x="780.00" y="125.00" class="small" text-anchor="start">1,372</text>
+<text x="780.00" y="510.00" class="small" text-anchor="start">1,021</text>
+<text x="814.00" y="315.00" class="label" text-anchor="middle">σe0</text>
+</svg>

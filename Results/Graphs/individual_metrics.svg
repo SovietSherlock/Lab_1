@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760">
+<style>text{font-family:Arial,sans-serif;fill:#222} .grid{stroke:#d9d9d9;stroke-width:1} .axis{stroke:#333;stroke-width:1.5} .small{font-size:13px} .label{font-size:16px} .title{font-size:21px;font-weight:bold}</style>
+<title>Изменение показателей индивидуального варианта</title>
+<line x1="70.00" y1="65.00" x2="70.00" y2="315.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="70.00" y1="315.00" x2="440.00" y2="315.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="70.00" y="338.00" class="small" text-anchor="middle">0,300</text>
+<text x="58.00" y="320.00" class="small" text-anchor="end">0,656</text>
+<line x1="162.50" y1="65.00" x2="162.50" y2="315.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="70.00" y1="252.50" x2="440.00" y2="252.50" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="162.50" y="338.00" class="small" text-anchor="middle">0,375</text>
+<text x="58.00" y="257.50" class="small" text-anchor="end">0,722</text>
+<line x1="255.00" y1="65.00" x2="255.00" y2="315.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="70.00" y1="190.00" x2="440.00" y2="190.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="255.00" y="338.00" class="small" text-anchor="middle">0,450</text>
+<text x="58.00" y="195.00" class="small" text-anchor="end">0,789</text>
+<line x1="347.50" y1="65.00" x2="347.50" y2="315.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="70.00" y1="127.50" x2="440.00" y2="127.50" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="347.50" y="338.00" class="small" text-anchor="middle">0,525</text>
+<text x="58.00" y="132.50" class="small" text-anchor="end">0,855</text>
+<line x1="440.00" y1="65.00" x2="440.00" y2="315.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="70.00" y1="65.00" x2="440.00" y2="65.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="440.00" y="338.00" class="small" text-anchor="middle">0,600</text>
+<text x="58.00" y="70.00" class="small" text-anchor="end">0,922</text>
+<line x1="70.00" y1="65.00" x2="70.00" y2="315.00" stroke="#333" stroke-width="1.5"/>
+<line x1="70.00" y1="315.00" x2="440.00" y2="315.00" stroke="#333" stroke-width="1.5"/>
+<text x="255.00" y="367.00" class="label" text-anchor="middle">ē0</text>
+<text x="5.00" y="190.00" class="label" text-anchor="middle">εf</text>
+<text x="255.00" y="37.00" class="title" text-anchor="middle">εf</text>
+<polyline points="70.00,290.81 107.00,265.70 144.00,241.69 181.00,218.78 218.00,196.96 255.00,176.25 292.00,156.64 329.00,138.13 366.00,120.72 403.00,104.41 440.00,89.19" stroke="#2878b5" stroke-width="2.0" fill="none"/>
+<circle cx="70.00" cy="290.81" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="107.00" cy="265.70" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="144.00" cy="241.69" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="181.00" cy="218.78" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="218.00" cy="196.96" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="255.00" cy="176.25" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="292.00" cy="156.64" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="329.00" cy="138.13" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="366.00" cy="120.72" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="403.00" cy="104.41" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="440.00" cy="89.19" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<line x1="570.00" y1="65.00" x2="570.00" y2="315.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="570.00" y1="315.00" x2="940.00" y2="315.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="570.00" y="338.00" class="small" text-anchor="middle">0,300</text>
+<text x="558.00" y="320.00" class="small" text-anchor="end">12,880</text>
+<line x1="662.50" y1="65.00" x2="662.50" y2="315.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="570.00" y1="252.50" x2="940.00" y2="252.50" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="662.50" y="338.00" class="small" text-anchor="middle">0,375</text>
+<text x="558.00" y="257.50" class="small" text-anchor="end">18,585</text>
+<line x1="755.00" y1="65.00" x2="755.00" y2="315.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="570.00" y1="190.00" x2="940.00" y2="190.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="755.00" y="338.00" class="small" text-anchor="middle">0,450</text>
+<text x="558.00" y="195.00" class="small" text-anchor="end">24,290</text>
+<line x1="847.50" y1="65.00" x2="847.50" y2="315.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="570.00" y1="127.50" x2="940.00" y2="127.50" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="847.50" y="338.00" class="small" text-anchor="middle">0,525</text>
+<text x="558.00" y="132.50" class="small" text-anchor="end">29,995</text>
+<line x1="940.00" y1="65.00" x2="940.00" y2="315.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="570.00" y1="65.00" x2="940.00" y2="65.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="940.00" y="338.00" class="small" text-anchor="middle">0,600</text>
+<text x="558.00" y="70.00" class="small" text-anchor="end">35,700</text>
+<line x1="570.00" y1="65.00" x2="570.00" y2="315.00" stroke="#333" stroke-width="1.5"/>
+<line x1="570.00" y1="315.00" x2="940.00" y2="315.00" stroke="#333" stroke-width="1.5"/>
+<text x="755.00" y="367.00" class="label" text-anchor="middle">ē0</text>
+<text x="505.00" y="190.00" class="label" text-anchor="middle">κ̄max</text>
+<text x="755.00" y="37.00" class="title" text-anchor="middle">κ̄max</text>
+<polyline points="570.00,290.81 607.00,286.85 644.00,278.33 681.00,267.66 718.00,254.58 755.00,238.70 792.00,219.47 829.00,196.15 866.00,167.69 903.00,132.70 940.00,89.19" stroke="#2878b5" stroke-width="2.0" fill="none"/>
+<circle cx="570.00" cy="290.81" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="607.00" cy="286.85" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="644.00" cy="278.33" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="681.00" cy="267.66" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="718.00" cy="254.58" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="755.00" cy="238.70" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="792.00" cy="219.47" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="829.00" cy="196.15" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="866.00" cy="167.69" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="903.00" cy="132.70" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="940.00" cy="89.19" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<line x1="70.00" y1="445.00" x2="70.00" y2="695.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="70.00" y1="695.00" x2="440.00" y2="695.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="70.00" y="718.00" class="small" text-anchor="middle">0,300</text>
+<text x="58.00" y="700.00" class="small" text-anchor="end">0,020</text>
+<line x1="162.50" y1="445.00" x2="162.50" y2="695.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="70.00" y1="632.50" x2="440.00" y2="632.50" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="162.50" y="718.00" class="small" text-anchor="middle">0,375</text>
+<text x="58.00" y="637.50" class="small" text-anchor="end">0,046</text>
+<line x1="255.00" y1="445.00" x2="255.00" y2="695.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="70.00" y1="570.00" x2="440.00" y2="570.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="255.00" y="718.00" class="small" text-anchor="middle">0,450</text>
+<text x="58.00" y="575.00" class="small" text-anchor="end">0,072</text>
+<line x1="347.50" y1="445.00" x2="347.50" y2="695.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="70.00" y1="507.50" x2="440.00" y2="507.50" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="347.50" y="718.00" class="small" text-anchor="middle">0,525</text>
+<text x="58.00" y="512.50" class="small" text-anchor="end">0,099</text>
+<line x1="440.00" y1="445.00" x2="440.00" y2="695.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="70.00" y1="445.00" x2="440.00" y2="445.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="440.00" y="718.00" class="small" text-anchor="middle">0,600</text>
+<text x="58.00" y="450.00" class="small" text-anchor="end">0,125</text>
+<line x1="70.00" y1="445.00" x2="70.00" y2="695.00" stroke="#333" stroke-width="1.5"/>
+<line x1="70.00" y1="695.00" x2="440.00" y2="695.00" stroke="#333" stroke-width="1.5"/>
+<text x="255.00" y="747.00" class="label" text-anchor="middle">ē0</text>
+<text x="5.00" y="570.00" class="label" text-anchor="middle">ξдегр</text>
+<text x="255.00" y="417.00" class="title" text-anchor="middle">ξдегр</text>
+<polyline points="70.00,469.19 107.00,507.38 144.00,538.86 181.00,565.19 218.00,587.48 255.00,606.55 292.00,623.01 329.00,637.33 366.00,649.89 403.00,660.97 440.00,670.81" stroke="#2878b5" stroke-width="2.0" fill="none"/>
+<circle cx="70.00" cy="469.19" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="107.00" cy="507.38" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="144.00" cy="538.86" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="181.00" cy="565.19" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="218.00" cy="587.48" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="255.00" cy="606.55" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="292.00" cy="623.01" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="329.00" cy="637.33" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="366.00" cy="649.89" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="403.00" cy="660.97" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="440.00" cy="670.81" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<line x1="570.00" y1="445.00" x2="570.00" y2="695.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="570.00" y1="695.00" x2="940.00" y2="695.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="570.00" y="718.00" class="small" text-anchor="middle">0,300</text>
+<text x="558.00" y="700.00" class="small" text-anchor="end">0,979</text>
+<line x1="662.50" y1="445.00" x2="662.50" y2="695.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="570.00" y1="632.50" x2="940.00" y2="632.50" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="662.50" y="718.00" class="small" text-anchor="middle">0,375</text>
+<text x="558.00" y="637.50" class="small" text-anchor="end">1,088</text>
+<line x1="755.00" y1="445.00" x2="755.00" y2="695.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="570.00" y1="570.00" x2="940.00" y2="570.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="755.00" y="718.00" class="small" text-anchor="middle">0,450</text>
+<text x="558.00" y="575.00" class="small" text-anchor="end">1,196</text>
+<line x1="847.50" y1="445.00" x2="847.50" y2="695.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="570.00" y1="507.50" x2="940.00" y2="507.50" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="847.50" y="718.00" class="small" text-anchor="middle">0,525</text>
+<text x="558.00" y="512.50" class="small" text-anchor="end">1,305</text>
+<line x1="940.00" y1="445.00" x2="940.00" y2="695.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<line x1="570.00" y1="445.00" x2="940.00" y2="445.00" stroke="#d9d9d9" stroke-width="1.0"/>
+<text x="940.00" y="718.00" class="small" text-anchor="middle">0,600</text>
+<text x="558.00" y="450.00" class="small" text-anchor="end">1,414</text>
+<line x1="570.00" y1="445.00" x2="570.00" y2="695.00" stroke="#333" stroke-width="1.5"/>
+<line x1="570.00" y1="695.00" x2="940.00" y2="695.00" stroke="#333" stroke-width="1.5"/>
+<text x="755.00" y="747.00" class="label" text-anchor="middle">ē0</text>
+<text x="505.00" y="570.00" class="label" text-anchor="middle">σe0</text>
+<text x="755.00" y="417.00" class="title" text-anchor="middle">σe0</text>
+<polyline points="570.00,670.81 607.00,653.68 644.00,635.34 681.00,616.19 718.00,596.46 755.00,576.26 792.00,555.65 829.00,534.65 866.00,513.25 903.00,491.44 940.00,469.19" stroke="#2878b5" stroke-width="2.0" fill="none"/>
+<circle cx="570.00" cy="670.81" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="607.00" cy="653.68" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="644.00" cy="635.34" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="681.00" cy="616.19" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="718.00" cy="596.46" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="755.00" cy="576.26" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="792.00" cy="555.65" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="829.00" cy="534.65" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="866.00" cy="513.25" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="903.00" cy="491.44" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+<circle cx="940.00" cy="469.19" r="4.00" stroke="#2878b5" stroke-width="1.0" fill="#2878b5"/>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="820" viewBox="0 0 820 820">
+<style>text{font-family:Arial,sans-serif;fill:#222} .grid{stroke:#d9d9d9;stroke-width:1} .axis{stroke:#333;stroke-width:1.5} .small{font-size:13px} .label{font-size:16px} .title{font-size:21px;font-weight:bold}</style>
+<title>Поперечное сечение: Конец горения emax</title>
+<circle cx="410.00" cy="410.00" r="290.00" stroke="#333" stroke-width="2.0" fill="#f0d1a1"/>
+<circle cx="410.00" cy="410.00" r="290.00" stroke="#b43c35" stroke-width="2.0" fill="none" stroke-dasharray="7,5"/>
+<line x1="120.00" y1="410.00" x2="700.00" y2="410.00" stroke="#777" stroke-width="0.8" stroke-dasharray="5,5"/>
+<line x1="410.00" y1="120.00" x2="410.00" y2="700.00" stroke="#777" stroke-width="0.8" stroke-dasharray="5,5"/>
+<text x="410.00" y="42.00" class="title" text-anchor="middle">Конец горения emax: e=0,425·D</text>
+<text x="410.00" y="72.00" class="label" text-anchor="middle">Стадия 3; Π̄=0,0000</text>
+<text x="410.00" y="788.00" class="label" text-anchor="middle">D=100,0 мм; n=8; β=33,58°</text>
+</svg>
